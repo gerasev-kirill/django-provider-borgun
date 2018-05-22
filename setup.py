@@ -21,7 +21,7 @@ setup(
     author_email='gerasev.kirill@gmail.com',
     description='A django-payments backend for the Borgun (b-payment) payment gateway',
     long_description=README,
-    version='0.0.1',
+    version='0.1.0',
     url='https://github.com/gerasev-kirill/django-payments-borgun',
     packages=PACKAGES,
     classifiers=[
